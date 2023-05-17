@@ -1,0 +1,8 @@
+BUILD
+.cache
+mbed
+compile_commands.json
+.mbed
+.clangd
+MMA7660
+C12832
